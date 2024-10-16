@@ -2,7 +2,8 @@
 // import { PostComments } from "./components/PostComments";
 // import { PostData } from "./components/PostData";
 
-import { PokemonCard } from "./components/PokemonCard";
+// import { PokemonCard } from "./components/PokemonCard";
+import { ProductCart } from "./components/ProductCart";
 
 export const App=()=>{
 
@@ -12,7 +13,8 @@ export const App=()=>{
     // <PostData/>
     // <PostComments/>
     // <DataUpdate/>
-    <PokemonCard/>
+    // <PokemonCard/>
+    <ProductCart/>
 
   );
 };
